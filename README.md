@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asad-awadia
 - 👀 I’m interested in using Kotlin and Vert.x to develop solutions for your data tier
-- 🌱 I’m currently learning OLAP indexing techniques
+- 🌱 I’m currently learning Machine learning algorithms
 - 📫 You can get more information about me at https://aawadia.dev
 
 <!---
